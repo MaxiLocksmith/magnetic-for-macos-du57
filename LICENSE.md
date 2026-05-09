@@ -1,4 +1,4 @@
-
+Enhance Magnetic for macOS with updated Magnetic for macOS Workflow | duplicate-finder + cloud-sync, the #1 workflow. Includes duplicate-finder and cloud-sync for a smoother macOS
 
 
 
